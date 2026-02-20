@@ -1,0 +1,16 @@
+## Interface: 120001, 50503, 38000, 20505, 11508
+## Title: RemapCMD
+## Notes: Remaps modifier keys (Alt, Ctrl, Shift, Meta/CMD) to each other. Includes graphical options panel. macOS-focused.
+## Author: zeechn
+## Version: 1.0.0
+## SavedVariables: RemapCMD_Config
+
+## Interface version reference:
+##   120001 = Retail / Midnight 12.0.1
+##   50503  = Mists of Pandaria Classic 5.5.3
+##   38000  = Titan Reforged Classic (WotLK-era, Blizzard/NetEase)
+##   20505  = Burning Crusade Classic Anniversary 2.5.5
+##   11508  = Classic Era 1.15.8
+
+RemapCMD.lua
+RemapCMD_Options.lua
