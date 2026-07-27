@@ -1,16 +1,21 @@
-## Interface: 120001, 50503, 38000, 20505, 11508
+## Interface: 120007, 50504, 38001, 20506, 11509
 ## Title: RemapCMD
 ## Notes: Remaps modifier keys (Alt, Ctrl, Shift, Meta/CMD) to each other. Includes graphical options panel. macOS-focused.
 ## Author: zeechn
-## Version: 1.0.0
+## Version: 1.0.1
 ## SavedVariables: RemapCMD_Config
 
-## Interface version reference:
-##   120001 = Retail / Midnight 12.0.1
-##   50503  = Mists of Pandaria Classic 5.5.3
-##   38000  = Titan Reforged Classic (WotLK-era, Blizzard/NetEase)
-##   20505  = Burning Crusade Classic Anniversary 2.5.5
-##   11508  = Classic Era 1.15.8
+## Category-enUS: Action Bars
+## Category-deDE: Aktionsleisten
+## Category-esES: Barras de Acción
+## Category-esMX: Barras de Acción
+## Category-frFR: Barres d'action
+## Category-itIT: Barre delle Azioni
+## Category-koKR: 행동 단축바
+## Category-ptBR: Barras de Ação
+## Category-ruRU: Панели команд
+## Category-zhCN: 动作条
+## Category-zhTW: 快捷列
 
 RemapCMD.lua
 RemapCMD_Options.lua

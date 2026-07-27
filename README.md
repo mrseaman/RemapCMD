@@ -29,13 +29,13 @@ Valid modifiers: `ALT`, `CTRL`, `SHIFT`, `META`
 
 ## Supported Versions
 
-| Client | Interface # |
-|---|---|
-| Retail (Midnight) | 120001 |
-| Mists of Pandaria Classic | 50503 |
-| Wrath of the Lich King Classic | 38000 |
-| Burning Crusade Classic | 20505 |
-| Classic Era | 11508 |
+| Client | Patch | Interface # |
+|---|---|---|
+| Retail (Midnight) | 12.0.7 | 120007 |
+| Mists of Pandaria Classic | 5.5.4 | 50504 |
+| Titan Reforged Classic | 3.80.1 | 38001 |
+| Burning Crusade Classic Anniversary | 2.5.6 | 20506 |
+| Classic Era | 1.15.9 | 11509 |
 
 ## Known Limitations
 

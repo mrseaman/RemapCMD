@@ -26,15 +26,7 @@ Rules are fully user-configurable and persisted via `SavedVariables`. The addon 
 
 ## Supported Client Versions
 
-| Version | Interface # | Client |
-|---|---|---|
-| 12.0.1 | 120001 | Retail (Midnight) |
-| 5.5.3 | 50503 | Mists of Pandaria Classic |
-| 3.x | 38000 | Titan Reforged Classic (Blizzard/NetEase) |
-| 2.5.5 | 20505 | Burning Crusade Classic Anniversary |
-| 1.15.8 | 11508 | Classic Era |
-
-The core keybinding logic works across all versions. The GUI options panel (`RemapCMD_Options.lua`) uses `Settings.RegisterCanvasLayoutCategory`, which only exists in retail Dragonflight (10.0) and later — it will error on Classic clients.
+The core keybinding logic works across all versions. As WoW clients often update, check TOC file for last supported versions.
 
 ## Core Logic (RemapCMD.lua)
 
