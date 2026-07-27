@@ -1,0 +1,16 @@
+package-as: RemapCMD
+move-folders:
+    RemapCMD/RemapCMD: RemapCMD
+
+ignore:
+    - CHANGELOG.md
+    - CLAUDE.md
+    - README.md
+    - RemapCMD.png
+    - .pkgmeta
+    - .github
+    - RemapCMD.png
+
+manual-changelog:
+    filename: CHANGELOG.md
+    markup-type: markdown
