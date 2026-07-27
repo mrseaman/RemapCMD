@@ -4,6 +4,7 @@
 ## Author: zeechn
 ## Version: 1.0.1
 ## SavedVariables: RemapCMD_Config
+## X-Curse-Project-ID: 1466997
 
 ## Category-enUS: Action Bars
 ## Category-deDE: Aktionsleisten
